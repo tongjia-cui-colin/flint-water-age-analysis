@@ -1,6 +1,6 @@
 # Dataset
 
-The dataset is provided in CSV format and can be found in this folder.
+The dataset is provided in CSV format and can be found in this folder under the file name "MODEL_CT_RESULTS.csv".
 
 ## Source
 This project uses a subset of data from:
