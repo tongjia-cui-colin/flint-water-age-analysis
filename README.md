@@ -1,7 +1,5 @@
 # Flint Water Crisis: Water Age Analysis
-
-## Date
-December, 2025
+*Last updated: December 2025*
 
 ## Overview
 This project examines water infrastructure conditions during the Flint Water Crisis using modeled water age as an outcome variable. The analysis evaluates whether water quality, using water age as proxy, meaningfully reflects variation associated with socioeconomic vulnerability and public health risk.
